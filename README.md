@@ -10,7 +10,7 @@ This is a basic web application that allows users to create posts and add commen
 4. Start the server:
 `node app.js`
 
-The server will start running on port 3000 by default. You can access the application's API endpoints using tools like Postman or curl.
+The server will start running on port 3000 by default. You can access the application's API endpoints using tools like Postman or curl at `http://localhost:3000`.
 
 ## Architecture
 
